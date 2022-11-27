@@ -1,2 +1,3 @@
 # crud
-Django Dosya Yazma Okuma Silme Alistirmasi
+branches/crud.py Dosyasına bakınız.
+Django Dosya Yazma Okuma Silme Alistirmasi.
